@@ -8,7 +8,7 @@ const Contact = () => {
                             <div className="card-body">
                                 <i className="fas fa-map-marker-alt fa-3x mb-3" style={{color: 'var(--primary)'}}></i>
                                 <h5 className="card-title">Ubicación</h5>
-                                <p className="card-text">Chinchina, Caldas</p>
+                                <p className="card-text">Tulcan, Carchi</p>
                             </div>
                         </div>
                     </div>
@@ -17,7 +17,7 @@ const Contact = () => {
                             <div className="card-body">
                                 <i className="fas fa-envelope fa-3x mb-3" style={{color: 'var(--primary)'}}></i>
                                 <h5 className="card-title">Email</h5>
-                                <p className="card-text">strawberrymakeupstore@gmail.com</p>
+                                <p className="card-text">juan@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -26,7 +26,7 @@ const Contact = () => {
                             <div className="card-body">
                                 <i className="fas fa-phone fa-3x mb-3" style={{color: 'var(--primary)'}}></i>
                                 <h5 className="card-title">Teléfono</h5>
-                                <p className="card-text">+57 3235275634</p>
+                                <p className="card-text">+593 998045232</p>
                             </div>
                         </div>
                     </div>
@@ -74,8 +74,8 @@ const Contact = () => {
                                 <div className="card-body">
                                     <i className="fab fa-instagram fa-3x mb-3" style={{color: 'var(--primary)'}}></i>
                                     <h5 className="card-title">Instagram</h5>
-                                    <p className="card-text">@strawberry_makeup05</p>
-                                    <a href="https://www.instagram.com/strawberry_makeup05" target="_blank" rel="noopener noreferrer" 
+                                    <p className="card-text">@juanp.dev</p>
+                                    <a href="https://www.instagram.com/juanp.dev" target="_blank" rel="noopener noreferrer" 
                                        className="btn" style={{background: 'var(--primary)', color: 'white'}}>
                                         Síguenos
                                     </a>
@@ -87,8 +87,8 @@ const Contact = () => {
                                 <div className="card-body">
                                     <i className="fab fa-tiktok fa-3x mb-3" style={{color: 'var(--primary)'}}></i>
                                     <h5 className="card-title">TikTok</h5>
-                                    <p className="card-text">@strawberry_makeup05</p>
-                                    <a href="https://www.tiktok.com/@strawberry_makeup05" target="_blank" rel="noopener noreferrer" 
+                                    <p className="card-text">@juanp.dev</p>
+                                    <a href="https://www.tiktok.com/@juanp.dev" target="_blank" rel="noopener noreferrer" 
                                        className="btn" style={{background: 'var(--primary)', color: 'white'}}>
                                         Síguenos
                                     </a>
@@ -100,8 +100,8 @@ const Contact = () => {
                                 <div className="card-body">
                                     <i className="fab fa-facebook fa-3x mb-3" style={{color: 'var(--primary)'}}></i>
                                     <h5 className="card-title">Facebook</h5>
-                                    <p className="card-text">Strawberry Makeup Store</p>
-                                    <a href="https://www.facebook.com/strawberry_makeup05" target="_blank" rel="noopener noreferrer" 
+                                    <p className="card-text">Juan Narváez</p>
+                                    <a href="https://www.facebook.com/juan.narvaez.833098" target="_blank" rel="noopener noreferrer" 
                                        className="btn" style={{background: 'var(--primary)', color: 'white'}}>
                                         Síguenos
                                     </a>
